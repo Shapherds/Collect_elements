@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405198173630",
+    "project_id": "crazy-fall-6af62",
+    "storage_bucket": "crazy-fall-6af62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405198173630:android:95f5ce14ffaf22e1f1b5ef",
+        "android_client_info": {
+          "package_name": "com.fall.crazyfall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405198173630-hfa791ib2jv46b42pje012f5ef2vak7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpMeclH5kk5swljtPfr4og67k_rrzy1kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405198173630-hfa791ib2jv46b42pje012f5ef2vak7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
